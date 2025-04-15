@@ -1,0 +1,82 @@
+{
+    "Long Bottoms": [{
+        "name": "Short Sleeve Top 1",
+        "availability": false
+    },
+    {
+        "name": "Short Sleeve Top 2",
+        "availability": true
+    },
+    {
+        "name": "Short Sleeve Top 3",
+        "availability": true
+    },
+    {
+        "name": "Short Sleeve Top 4",
+        "availability": true
+    },
+    {
+        "name": "Short Sleeve Top 5",
+        "availability": true
+    }],
+    "Long Sleeve Tops": [{
+        "name": "Long Sleeve Top 1",
+        "availability": false
+    },
+    {
+        "name": "Long Sleeve Top 2",
+        "availability": true
+    },
+    {
+        "name": "Long Sleeve Top 3",
+        "availability": true
+    },
+    {
+        "name": "Long Sleeve Top 4",
+        "availability": true
+    },
+    {
+        "name": "Long Sleeve Top 5",
+        "availability": true
+    }],
+    "Short Sleeve Tops": [{
+        "name": "Long Bottom 1",
+        "availability": false
+    },
+    {
+        "name": "Long Bottom 2",
+        "availability": true
+    },
+    {
+        "name": "Long Bottom 3",
+        "availability": true
+    },
+    {
+        "name": "Long Bottom 4",
+        "availability": true
+    },
+    {
+        "name": "Long Bottom 5",
+        "availability": true
+    }],
+    "Short Bottoms": [{
+        "name": "Short Bottom 1",
+        "availability": false
+    },
+    {
+        "name": "Short Bottom 2",
+        "availability": true
+    },
+    {
+        "name": "Short Bottom 3",
+        "availability": true
+    },
+    {
+        "name": "Short Bottom 4",
+        "availability": true
+    },
+    {
+        "name": "Short Bottom 5",
+        "availability": true
+    }]
+}

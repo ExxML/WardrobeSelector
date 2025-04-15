@@ -1,0 +1,18 @@
+{
+    "Long Bottoms": [{
+        "name": "c",
+        "availability": true
+    }],
+    "Long Sleeve Tops": [{
+        "name": "a",
+        "availability": true
+    }],
+    "Short Sleeve Tops": [{
+        "name": "b",
+        "availability": true
+    }],
+    "Short Bottoms": [{
+        "name": "d",
+        "availability": true
+    }]
+}
