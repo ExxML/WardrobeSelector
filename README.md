@@ -1,5 +1,8 @@
 # Wardrobe Selector
 
+## Application Preview
+![WardrobeSelector Preview](WardrobeSelector_Preview.png)
+
 ## What does the application do?
 There will be 4 categories where the user will be able to add pieces of clothing: 
 - Long sleeve tops
